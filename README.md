@@ -4,9 +4,16 @@ PyQt is a GUI widgets toolkit. It is a Python interface for Qt, one of the most 
 ## Installation
 In order to run this or any other PyQt application you need to download PyQt.
 
+### Linux/MAC
+```
+sudo apt-get install python-qt4
+```
+
 ### Windows
 Download and install either:
+
 [PyQT4 32 bit](https://sourceforge.net/projects/pyqt/files/PyQt4/PyQt-4.11.4/PyQt4-4.11.4-gpl-Py3.4-Qt4.8.7-x32.exe/download)
+
 [PyQT4 64 bit](https://sourceforge.net/projects/pyqt/files/PyQt4/PyQt-4.11.4/PyQt4-4.11.4-gpl-Py2.7-Qt4.8.7-x64.exe/download)
 
 ## PyQt4: HelloWorld.py
