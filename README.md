@@ -6,3 +6,5 @@ In this applicaion I linked the push button "on clicked action" to load the prog
 
 ## Preview
 ![Alt text](/img/preview1.png "First Preview")
+![Alt text](/img/preview2.png "Second Preview")
+![Alt text](/img/preview3.png "Final Preview")
