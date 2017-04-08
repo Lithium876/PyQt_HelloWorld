@@ -7,10 +7,12 @@ In order to run this or any other PyQt application you need to download PyQt.
 ### Windows
 ```
 Download and install either:
-[PyQT4 32 bit](https://sourceforge.net/projects/pyqt/files/PyQt4/PyQt-4.11.4/PyQt4-4.11.4-gpl-Py3.4-Qt4.8.7-x32.exe/download)
-or 
-[PyQT4 64 bit](https://sourceforge.net/projects/pyqt/files/PyQt4/PyQt-4.11.4/PyQt4-4.11.4-gpl-Py2.7-Qt4.8.7-x64.exe/download)
 ```
+[PyQT4 32 bit](https://sourceforge.net/projects/pyqt/files/PyQt4/PyQt-4.11.4/PyQt4-4.11.4-gpl-Py3.4-Qt4.8.7-x32.exe/download)
+```
+or 
+```
+[PyQT4 64 bit](https://sourceforge.net/projects/pyqt/files/PyQt4/PyQt-4.11.4/PyQt4-4.11.4-gpl-Py2.7-Qt4.8.7-x64.exe/download)
 
 ## PyQt4: HelloWorld.py
 In this applicaion I linked the push button "on clicked action" to load the progress bar to 100% then displayed a Hello World Message in a pop up dialog.
